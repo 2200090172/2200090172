@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Aravind Chowta
+- 👀 I’m interested in Full Stack, Data Structures
+- 🌱 I’m currently learning SpringBoot with MicroServices
+- 📫 How to reach me ? => just ping me @aravindchowta101@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: I'm a student Hahah
